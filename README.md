@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Emy1-cyber
-- 👀 I’m interested in develoment
+- 👀 I’m interested in develoment web
 - 🌱 I’m currently learning js and htmt and css
 - 💞️ I’m looking to collaborate on ladies script
-- 📫 How to reach me iimane.daoudii@gmail.com
+- 📫 How to reach me 
 - 😄 Pronouns: .
 - ⚡ Fun fact: ...
 
